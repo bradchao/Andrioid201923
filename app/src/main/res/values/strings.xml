@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android201923</string>
+    <string name="btn1">Test1</string>
+    <string name="btn2">Test2</string>
 </resources>
